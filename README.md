@@ -32,6 +32,7 @@ cd <project-directory>
 ### 2. Start PostgreSQL Database
 
 ```bash
+cd backend
 docker-compose up -d
 ```
 
